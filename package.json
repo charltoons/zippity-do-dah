@@ -31,8 +31,9 @@
   },
   "homepage": "https://github.com/tleen/zippity-do-dah",
   "dependencies": {
-    "underscore": "1.6.0",
-    "csv2array": "0.0.1"
+    "csv2array": "0.0.1",
+    "to-csv": "0.0.3",
+    "underscore": "1.6.0"
   },
   "devDependencies": {
     "mocha": "^1.18.0",
